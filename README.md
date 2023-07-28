@@ -1,16 +1,19 @@
-# cart
+# Prueba RappiPay 📝  
 
-A new Flutter project.
+  Antes de describir los pasos para depurar mi codigo, quiero agradecer la oportunidad de enviar mi prueba completa.
+  
+## Get Started 🚀  
 
-## Getting Started
+- En principio es necesario tener instalado Flutter en su ultima version.
+- Realizar un clean antes de instalar dependencias, para evitar cualquier conflicto.
+- Realizar un Pub Get, para instalar dependencias.
+- Ejecutar el emulador deseado.
+- Realizar un Run del proyecto.
+  
+## Datos del Codigo 🔥  
 
-This project is a starting point for a Flutter application.
+  La app al ser de un solo Screen, tiene la particularidad de cargar la data desde su creación, especificamente en el product_repository se hace el get de la data durante la creación del screen de productos.
 
-A few resources to get you started if this is your first Flutter project:
+## Duda ✨  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  Recordando un poco durante la entrevista al final del documento del ejercicio se mencionaba un carrito, no obstante no supe las particularidades del mismo, ademas de ello al revisar nuevamente el documento para terminar la prueba no vi aquel texto, por lo que me queda la duda si debia o no implementarlo, de ser necesario puedo hacerlo, simplemente necesitare las particularidades del mismo.
